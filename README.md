@@ -1,0 +1,2 @@
+# ArtificialIntelligenceCourse
+CS351
